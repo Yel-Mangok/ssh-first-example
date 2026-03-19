@@ -9,7 +9,12 @@ if (n < 0) {
     //if the condition is true
     //executee this code
     alert("the Number is Negative.");
-} else if (n >= 0) {
+} else if (n == 0) {
+    //if the condition is true,
+    //else if, analys othe condition
+    //execute this code
+    alert("The number is Positive.");
+} } else if (n >= 0) {
     //if the condition is true,
     //else if, analys othe condition
     //execute this code
